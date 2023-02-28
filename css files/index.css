@@ -1,0 +1,37 @@
+.row{
+      display: flex;
+      margin: 50px;
+      background-color: black;
+}
+.b{
+    height: 560px;
+    background-color: black;
+    
+}
+.b1{
+    /* background-color: black; */
+    margin: 50px;
+    margin-top: 50px;
+
+    /* margin-top: -50px;   */
+}
+.c{
+    border: 10px solid white;
+    background-color: black;
+    height: 700px;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+}
+
+.bu:hover{
+    height: 30px;
+    width: 150px;
+    background-color: black;
+    color: white;
+    
+}
+.card-img-top:hover{
+    height: 400px;
+    width: 400px;
+    box-shadow: 30px 30px orangered;
+}
